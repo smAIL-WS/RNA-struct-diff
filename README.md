@@ -65,3 +65,8 @@ motifs/{motif}.txt
 - `1D` — sequence-based diffusion model  
 - `2D` — contact-map–aligned diffusion model  
 - `2D_RNAfold` — 2D model with RNAfold-guided structural feedback
+
+the checkpoints for the models can be downloaded at:
+https://drive.google.com/file/d/1P5UMtywEmReGuFn_aAiEA5HkKr8qIErl/view?usp=drive_link
+
+extract the file in RNA_struct_dff/shape_guided_RNA/

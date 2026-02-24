@@ -1,0 +1,7 @@
+
+
+datadir : "data/"
+model : "linear"
+number_gen: 2000
+
+conda-frontend: conda

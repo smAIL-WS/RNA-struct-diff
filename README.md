@@ -52,6 +52,7 @@ snakemake --cores <num_cores> \
           --use-conda \
           --conda-frontend conda \
           output/{motif}/{model}.fasta
+          
 Required Inputs
 
 A motif file must exist at:

@@ -30,13 +30,13 @@ The evaluation pipeline performs:
 ## Usage
 
 The generation and evaluation pipeline is implemented via Snakemake:
-
+```
 snakemake --cores <num_cores> \
           --resources gpu=<num_gpus> rnaforester_slots=<num_slots> \
           --use-conda \
           --conda-frontend conda \
           output/{motif}/{model}.fasta
-          
+```          
 Required Inputs
 
 A motif file must exist at:

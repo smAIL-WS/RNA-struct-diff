@@ -27,22 +27,6 @@ The evaluation pipeline performs:
 
 ---
 
-## Repository Status
-
-This repository is provided as a **research snapshot accompanying the conference submission**.
-
-It reflects the experimental code used for the reported results. While the core pipeline should function when dependencies and checkpoints are properly configured, the repository is currently:
-
-- minimally refactored,
-- lightly documented,
-- not yet fully modularized.
-
-A cleaned, fully documented, and reproducible release (including improved setup instructions and packaging) will be provided after the review process.
-
-We appreciate the reviewers’ understanding.
-
----
-
 ## Usage
 
 The generation and evaluation pipeline is implemented via Snakemake:

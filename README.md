@@ -54,4 +54,4 @@ motifs/{motif}.txt
 the checkpoints for the models can be downloaded at:
 https://drive.google.com/file/d/1P5UMtywEmReGuFn_aAiEA5HkKr8qIErl/view?usp=drive_link
 
-extract the file in RNA_struct_dff/shape_guided_RNA/
+extract the file in RNA_struct_diff/shape_guided_RNA/
